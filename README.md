@@ -1,4 +1,4 @@
-# Xbox Game Pass — Análise de Assinaturas e Dashboard de Vendas
+# Xbox Game Pass - Análise de Assinaturas e Dashboard de Vendas
 
 ## Visão geral
 
