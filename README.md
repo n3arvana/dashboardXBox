@@ -61,7 +61,6 @@ A base contém informações relacionadas aos assinantes e às características 
 | `EA Play Season Pass Price` | Valor associado ao complemento EA Play Season Pass. |
 | `Minecraft Season Pass` | Indica a adesão ao complemento Minecraft Season Pass. |
 | `Minecraft Season Pass Price` | Valor associado ao complemento Minecraft Season Pass. |
-| `Coupon Value` | Valor do cupom registrado na base. |
 | `Total Value` | Valor total da assinatura após a aplicação do desconto, conforme a estrutura utilizada no projeto. |
 
 A base contém campos de diferentes tipos. Para evitar erros, campos numéricos devem ser tratados como números, datas como datas e categorias como texto. Valores como `Yes` e `No` representam categorias, enquanto o hífen pode indicar ausência de um preço aplicável.
