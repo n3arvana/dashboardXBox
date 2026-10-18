@@ -274,14 +274,6 @@ O trabalho também reforça a importância de selecionar métricas adequadas, ex
 
 ---
 
-## Estrutura sugerida do repositório
-
-```text
-projDashboardXbox/
-├── README.md
-└── projDashboardXbox.xlsx
-```
-
 ## Autor
 
-Desenvolvido como projeto de prática em análise de dados e construção de dashboards com Microsoft Excel.
+Desenvolvido por Guilherme Breno Martins Jordão como projeto de prática em análise de dados e construção de dashboards com Microsoft Excel.
